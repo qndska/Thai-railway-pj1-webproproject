@@ -1,4 +1,4 @@
-﻿(ITCS212 Web Programming)
+# Project phase 1 ITCS212 Web Programming
 Project Phase I: Tentative domain: Ticket purchasing (ThaiRailways) 
 Team members
 1. 6488045 Supithcha Jongphoemwatthanaphon
